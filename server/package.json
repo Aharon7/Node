@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node.js server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+     "start": "node app.js"
+
+  },
+  "author": "Aharon Babel",
+  "license": "MIT"
+}
